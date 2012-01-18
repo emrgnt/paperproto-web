@@ -1,6 +1,6 @@
 development:
     domain:             localhost:3000
-    app_name:           App
+    app_name:           AppSketch
     twitter_key:        
     twitter_secret:     
     facebook_key:       
@@ -10,7 +10,7 @@ development:
 
 test:
     domain:             test.host
-    app_name:           App
+    app_name:           AppSketch
     twitter_key:        
     twitter_secret:     
     facebook_key:       
@@ -19,8 +19,8 @@ test:
     linked_in_secret:   
 
 production:
-    domain:             example.com
-    app_name:           App
+    domain:             appsketch.herokuapp.com
+    app_name:           AppSketch
     # FILL IN FOLLOWING LINES WITH REAL ACCOUNTS (POINTING TO HEROKU)
     # twitter_key:        
     # twitter_secret:     
