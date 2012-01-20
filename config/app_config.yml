@@ -23,8 +23,8 @@ test:
 production:
     domain:             paperproto.herokuapp.com
     app_name:           PaperProto
+    google_analytics:   UA-28407646-2
     # FILL IN FOLLOWING LINES WITH REAL ACCOUNTS (POINTING TO HEROKU)
-    # google_analytics:   
     # twitter_key:        
     # twitter_secret:     
     # facebook_key:       
